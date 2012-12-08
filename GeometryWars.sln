@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryWars", "GeometryWars\GeometryWars\GeometryWars.csproj", "{0C592F95-E1BB-450C-872A-DA773FDED715}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GeometryWarsContent", "GeometryWars\GeometryWarsContent\GeometryWarsContent.contentproj", "{1AA59395-464F-417C-A40B-94307F1D140A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C592F95-E1BB-450C-872A-DA773FDED715}.Debug|x86.ActiveCfg = Debug|x86
+		{0C592F95-E1BB-450C-872A-DA773FDED715}.Debug|x86.Build.0 = Debug|x86
+		{0C592F95-E1BB-450C-872A-DA773FDED715}.Release|x86.ActiveCfg = Release|x86
+		{0C592F95-E1BB-450C-872A-DA773FDED715}.Release|x86.Build.0 = Release|x86
+		{1AA59395-464F-417C-A40B-94307F1D140A}.Debug|x86.ActiveCfg = Debug|x86
+		{1AA59395-464F-417C-A40B-94307F1D140A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

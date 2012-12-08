@@ -1,0 +1,1 @@
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache

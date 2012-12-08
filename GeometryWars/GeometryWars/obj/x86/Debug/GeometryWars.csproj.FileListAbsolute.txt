@@ -1,0 +1,15 @@
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\GeometryWars.exe
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\GeometryWars.pdb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\obj\x86\Debug\GeometryWars.exe
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\obj\x86\Debug\GeometryWars.pdb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\ParticleTexture.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\PlayerTexture.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\ScreenTexture.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\ScreenEffectTexture.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\ScreenEffect.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\PlayerEffect.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\ParticleEffect.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\BulletTexture.xnb
+D:\Projects\C#\GeometryWars\GeometryWars\GeometryWars\bin\x86\Debug\Content\BulletEffect.xnb
